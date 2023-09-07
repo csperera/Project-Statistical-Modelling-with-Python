@@ -10,8 +10,7 @@
 ### After getting location details about the 20 citybikes stations, I found Points-Of-Interest within 1000m using the FourSquare and Yelp API's
 ### I then connected the two dataframes (Foursquare, Yelp) together and performed a visualization using the Station data for my EDA
 ### Finally, I performed a regression model on a dataset I downloaded from Kaggle and made some conclusions
-### Note: I didn't realize that the regression was to be on our FourSquare and Yelp data - the Jupyter sheet simply says "do a regression" so I thought
-### I could choose my own data
+### Note: I didn't realize that the regression was to be on our FourSquare and Yelp data - the Jupyter sheet simply says "do a regression" so I thought I could choose my own data
 
 ## Results
 - Two results became apparent:
