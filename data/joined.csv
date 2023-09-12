@@ -1,0 +1,571 @@
+station,usage,total_bikes,poi_name,poi_distance,poi_address
+Hollywood North Beach,0.6363636363636364,11,Hollywood North Beach Park,9.0,"3601 N Ocean Dr, Hollywood, FL 33019"
+Hollywood North Beach,0.6363636363636364,11,Food King,414.0,"3111 N Surf Rd, Hollywood, FL 33019"
+Hollywood North Beach,0.6363636363636364,11,Oceans 13 Sports Bar & Grill,432.0,"3111 N Surf Rd, Hollywood, FL 33019"
+Hollywood North Beach,0.6363636363636364,11,Anne Kolb Nature Center,614.0,"751 Sheridan St, Hollywood, FL 33019"
+Hollywood North Beach,0.6363636363636364,11,Marine Environmental Education Center at the Carpenter House,696.0,"4414 N Surf Rd, Hollywood, FL 33019"
+Hollywood North Beach,0.6363636363636364,11,Latitudes Restaurant,787.0,"2501 N Ocean Dr (at Hollywood Beach Marriott), Hollywood, FL 33019"
+Earl Lifshey 3.0,0.4166666666666667,12,Marcello Sport,15.0,"3201 N Ocean Blvd, Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Walgreens,84.0,"3101 N Ocean Blvd, Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Scuba School & Dive Center,101.0,"3329 E Oakland Park Blvd, Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Pan'e Dolci,111.0,"3341 E Oakland Park Blvd (Oakland Park & A1A), Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Galt Ocean Terrace,127.0,"3031 N Ocean Blvd, Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Marina Mar,129.0,"3100 E Oakland Park Blvd, Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Pineapple Scuba,134.0,"3329 E Oakland Park Blvd, Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Berkley South Condo Association,142.0,"3015 N Ocean Blvd (Oakland Park Blvd.), Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Earl Lifshey Ocean Park,150.0,"3054 N Ocean Blvd, Fort Lauderdale, FL 33308"
+Earl Lifshey 3.0,0.4166666666666667,12,Previewmod,171.0,"3321 NE 32nd St, Fort Lauderdale, FL 33308"
+Atlantic & Briny,0.5555555555555556,9,Sandbar Snacks,17.0,"20 N Pompano Beach Blvd, Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,Miami Blues,125.0,"3400 E Atlantic Blvd, Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,Benny's Fishing Charters,140.0,"3109 E Atlantic Blvd, Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,The Plaza at Oceanside,199.0,"1 N Ocean Blvd, Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,TotalScape Design,222.0,"111 Briny Ave, Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,Atlantic Brewery,234.0,"3308 E Atlantic Blvd, Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,Walgreens,235.0,"15 S Ocean Blvd, Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,Parkway Pools,285.0,"Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,Insurance Careers,308.0,"101 N Riverside Dr, Pompano Beach, FL 33062"
+Atlantic & Briny,0.5555555555555556,9,Frame Up,317.0,"3201 E Atlantic Blvd, Pompano Beach, FL 33062"
+Esplanade Park,0.4545454545454545,11,AutoNation IMAX Theater,42.0,"401 SW 2nd St, Fort Lauderdale, FL 33312"
+Esplanade Park,0.4545454545454545,11,Museum Of Discovery and Science,46.0,"401 SW 2nd St (at SW 5th Ave), Fort Lauderdale, FL 33312"
+Esplanade Park,0.4545454545454545,11,Esplanade Park,47.0,"400 SW 4th Ave, Fort Lauderdale, FL 33312"
+Esplanade Park,0.4545454545454545,11,Broward Center for the Performing Arts,83.0,"201 SW 5th Ave (at SW 2nd St), Fort Lauderdale, FL 33312"
+Esplanade Park,0.4545454545454545,11,O-B House,94.0,"333 Himmarshee St, Fort Lauderdale, FL 33312"
+Esplanade Park,0.4545454545454545,11,Three Legged Dog,199.0,"214 SW 2nd St, Fort Lauderdale, FL 33301"
+Esplanade Park,0.4545454545454545,11,Fort Lauderdale Historical Society,255.0,"219 SW 2nd Ave, Fort Lauderdale, FL 33301"
+Esplanade Park,0.4545454545454545,11,Burger King,257.0,"666 W Broward Blvd (SW 7 Ave), Fort Lauderdale, FL 33312"
+Esplanade Park,0.4545454545454545,11,KFC,265.0,"401 W Broward Blvd, Fort Lauderdale, FL 33312"
+Esplanade Park,0.4545454545454545,11,Power Center,291.0,"711 Himmarshee St, Fort Lauderdale, FL 33312"
+Bayshore & A1A 3.0,0.3529411764705882,17,El Vez Fort Lauderdale,30.0,"401 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,Le Marche Gourmet Market,127.0,"505 N Fort Lauderdale Beach Blvd (Hilton Fort Lauderdale Beach Resort), Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,Starbucks,155.0,"321 N Route, Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,Ilios,165.0,"505 N Fort Lauderdale Beach Blvd (Hilton Fort Lauderdale Beach Resort), Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,Ilios,170.0,"505 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,Classical Piano Lessons,191.0,"673 NE 3rd Ave, Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,SupSmart,280.0,"3028 Seville St, Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,Takato,305.0,"551 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,Spinnaker,305.0,"551 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304"
+Bayshore & A1A 3.0,0.3529411764705882,17,Botanic at the Goodland,306.0,"2900 Riomar St, Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,Gold Coast Jazz Society,38.0,"1350 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,ArtServe,63.0,"1350 E Sunrise Blvd (Between Holiday Park & NE 14th Ave.), Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,HS2G Landscape Architecture,63.0,"1350 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,Hustler Hollywood,134.0,"1500 E Sunrise Blvd (at NE 15th Ave.), Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,Art Serve,134.0,"1350 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,Virility,150.0,"1213 E Sunrise Blvd (NE 12th Ave), Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,Publix,165.0,"1415 E Sunrise Blvd (at NE 15th Ave), Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,Kiskeya Pharmacy,167.0,"1203 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,Lucky Brand Jeans,168.0,"2492 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Holiday Park at Sunrise,0.4545454545454545,11,Walgreens,185.0,"1515 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Daven With Dov,120.0,"802 S Surf Rd, Hollywood, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Summit Towers Condos,169.0,"1201 S Ocean Dr, Broward County, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Hollywood Beach Community Center,274.0,"1301 S Ocean Dr, Hollywood, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Oceanwalk Mall,624.0,"101 N Ocean Dr, Hollywood, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Hollywood Beach Trikke,643.0,"101 N Ocean Dr, Hollywood, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Ahh-Mazing Yoga,666.0,"101 N Ocean Dr, Hollywood, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Allington Tower North,671.0,"1500 S Ocean Dr, Hollywood, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Loggerhead Marina,705.0,"1400 Marina Dr, Hollywood, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Hollywood Marina,711.0,"700 Polk St, Hollywood, FL 33019"
+Broadwalk at Jefferson St.,0.3529411764705882,17,Loggerhead Marina - Hollywood,717.0,"1400 Marina Dr, Hollywood, FL 33019"
+Las Olas Beach Park,0.5,14,Boccaccino Cafe and Pizzeria,27.0,"401 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,Fort Lauderdale Beach,40.0,"South Fort Lauderdale Beach Boulevard, 300-332 (Las Olas Blvd), Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,411 South Bar And,66.0,"411 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,Fanntastic Fishing,90.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,Reel Work Sport Fishing Charters,113.0,"301 Seabreeze Blvd (East Las Olas Blvd and Seabreeze Blvd), Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,7-Eleven,122.0,"401 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,Holiday Shops,127.0,"3001 E Las Olas Blvd, Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,Ft Lauderdale Fishing,130.0,"301 Seabreeze Blvd (E Las Olas Blvd), Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,Spazio Italian Restaurant & Wine Lounge,137.0,"239 S Fort Lauderdale Beach Blvd (E. Las Olas Blvd.), Fort Lauderdale, FL 33316"
+Las Olas Beach Park,0.5,14,Hunters Beach Bar,145.0,"235 Almond Ave (E. Las Olas Blvd.), Fort Lauderdale, FL 33316"
+Las Olas & SE 9th Ave,0.0,11,Carroll's Jewelers,62.0,"915 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,Universal Court Reporting,69.0,"888 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,New River Fine Art,70.0,"822 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,Caffe Europa,77.0,"910 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,Dazzles Boutique,81.0,"816 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,Zola Keller's,81.0,"818 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,Empanada Top,84.0,"813 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,Community Foundation of Broward,85.0,"910 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,LF Las Olas,87.0,"916 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+Las Olas & SE 9th Ave,0.0,11,Tommy Bahama,102.0,"1002 E Las Olas Blvd, Fort Lauderdale, FL 33301"
+George English Park,0.4545454545454545,11,Express,115.0,"2414 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,Starbucks,127.0,"2414 E Sunrise Blvd (Bayview), Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,Macy's,130.0,"2314 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,Seldom Seen Gallery,136.0,"2318 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,Bath & Body Works,142.0,"2366 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,7-Eleven,157.0,"1040 Bayview Dr (Sunrise blvd), Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,Soma,192.0,"2380 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,Apple The Galleria,196.0,"2388 E Sunrise Blvd (at Galleria Mall), Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,The Galleria at Fort Lauderdale,197.0,"2414 E Sunrise Blvd (Bayview), Fort Lauderdale, FL 33304"
+George English Park,0.4545454545454545,11,George English Park,204.0,"1101 Bayview Dr, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,Abercrombie & Fitch,33.0,"2496 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,Hollister Co.,35.0,"2414 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,See's Candies,44.0,"2500 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,GNC,62.0,"2582 E Sunrise Blvd (@ Galleria Mall), Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,The Galleria Mall Food Court,63.0,"2414 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,Freeman's Luggage & Gifts,72.0,"2549 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,Starbucks,76.0,"2519 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,Just Your Friend,79.0,"2414 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,Victoria's Secret,85.0,"2588 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Galleria,0.4545454545454545,11,Daoud's Fine Jewelry,89.0,"2473 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Courthouse (540 Bldg),0.5454545454545454,11,Bruno & Schoenthal Trial Lawyers,97.0,"208 SE 6th St, Fort Lauderdale, FL 33301"
+Courthouse (540 Bldg),0.5454545454545454,11,State Attorney,135.0,"201 SE 6th St, Fort Lauderdale, FL 33301"
+Courthouse (540 Bldg),0.5454545454545454,11,US District Court Clerk,136.0,"299 E Broward Blvd (3rd Avenue), Fort Lauderdale, FL 33301"
+Courthouse (540 Bldg),0.5454545454545454,11,Broward County Clerk Of Courts T & M Pos,138.0,"201 SE 6th St, Fort Lauderdale, FL 33301"
+Courthouse (540 Bldg),0.5454545454545454,11,Dunkin',170.0,"110 SE 6th St, Fort Lauderdale, FL 33301"
+Courthouse (540 Bldg),0.5454545454545454,11,Subway,171.0,"110 SE 6th St, Fort Lauderdale, FL 33301"
+Courthouse (540 Bldg),0.5454545454545454,11,Public Defender,171.0,"201 SE 6th St, Fort Lauderdale, FL 33301"
+Courthouse (540 Bldg),0.5454545454545454,11,AHF Healthcare Center - Fort Lauderdale Downtown HCC,253.0,"700 SE 3rd Ave, Fort Lauderdale, FL 33316"
+Courthouse (540 Bldg),0.5454545454545454,11,Gulf Building,268.0,"633 S Federal Hwy, Fort Lauderdale, FL 33301"
+Courthouse (540 Bldg),0.5454545454545454,11,Drug Treatment Centers Fort Lauderdale,291.0,"600 S Andrews Ave, Fort Lauderdale, FL 33301"
+Sunrise & Ocean 3.0,0.7692307692307693,13,El Taquito,9.0,"917 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,B'stro on the Beach,21.0,"999 N Fort Lauderdale Beach Blvd (Sunrise Blvd ans A1A), Fort Lauderdale, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,Steelpan,48.0,"999 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,Splish Splash Bikini,59.0,"929 Sunrise Ln, Miami Beach, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,M Cruz Rentals,60.0,"3109 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,Heart of the City,79.0,"3120 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,Camp Live Oak,80.0,"3109 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,Nanou Sunrise,92.0,"3114 E Sunrise Blvd, Fort Lauderdale, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,Kisses From Italy,98.0,"3146 NE 9th St, Fort Lauderdale, FL 33304"
+Sunrise & Ocean 3.0,0.7692307692307693,13,Ocean Stop Supermarket,103.0,"3147 NE 9th St, Fort Lauderdale, FL 33304"
+Las Olas Parking Garage,0.3636363636363636,11,Ocean Wine & Spirits,35.0,"2901 E Las Olas Blvd, Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,Plaza Liquors,43.0,"2901 E Las Olas Blvd, Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,Nanou French Bakery,70.0,"2915 E Las Olas Blvd (South Birch Road), Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,Ft Lauderdale Fishing,142.0,"301 Seabreeze Blvd (E Las Olas Blvd), Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,Reel Work Sport Fishing Charters,165.0,"301 Seabreeze Blvd (East Las Olas Blvd and Seabreeze Blvd), Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,Hunters Beach Bar,178.0,"235 Almond Ave (E. Las Olas Blvd.), Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,Holiday Shops,208.0,"3001 E Las Olas Blvd, Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,Ecstasy Fashion,214.0,"3011 E Las Olas Blvd, Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,7-Eleven,216.0,"401 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+Las Olas Parking Garage,0.3636363636363636,11,Clothes Connection,221.0,"227 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316"
+Lauderdale by the Sea,0.5,10,Country Squire Haberdashery,72.0,"4404 N Ocean Dr, Lauderdale by the sea, FL 33308"
+Lauderdale by the Sea,0.5,10,Pane Dolci,85.0,"207 Commercial Blvd, Lauderdale by the sea, FL 33308"
+Lauderdale by the Sea,0.5,10,Community Presbyterian Church,86.0,"4433 Bougainvilla Dr (Commercial), Lauderdale by the sea, FL 33308"
+Lauderdale by the Sea,0.5,10,Glam Sparkle n' Glitz,90.0,"211 Commercial Blvd (A1A), Lauderdale by the sea, FL 33308"
+Lauderdale by the Sea,0.5,10,El Mar Cafe,103.0,"4405 El Mar Dr (Commercial Blvd), Lauderdale by the sea, FL 33308"
+Lauderdale by the Sea,0.5,10,Delacaseas,107.0,"4404 Bougainvilla Dr, Lauderdale by the sea, FL 33308"
+Lauderdale by the Sea,0.5,10,Diner By-the-Sea,114.0,"215 Commercial Blvd (at Bougainvilla Dr), Lauderdale by the sea, FL 33308"
+Lauderdale by the Sea,0.5,10,Ocean Mist Pub & Bar,133.0,"210 Commercial Blvd (at A1A), Lauderdale by the sea, FL 33308"
+Lauderdale by the Sea,0.5,10,Sunglass City,135.0,"110 Commercial Blvd (Lauderdale by the Sea), Fort Lauderdale, FL 33308"
+Lauderdale by the Sea,0.5,10,Canarias Cigars,143.0,"209 Commercial Blvd (Ocean dr), Lauderdale by the sea, FL 33308"
+Convention Center 3.0,0.3333333333333333,12,South East 17 Cooling Services,123.0,"1881 SE 17th St, Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,Walgreens,139.0,"1680 SE 17th St (Eisenhower Blvd), Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,"Rick Bannon, P.A. - Licensed Realtor",150.0,"1625 SE 17th St, Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,Carpe Diem Chiropractic,183.0,"1927 Cordova Rd, Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,Fresh First,202.0,"1637 SE 17th St (Eisenhower Blvd.), Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,Boathouse of Fort Lauderdale,202.0,"1601 SE 16th St, Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,Resolve Maritime Academy,231.0,"1600 SE 17th St, Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,MHG Insurance Brokers,238.0,"1600 SE 17th St, Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,Professional Crew Training,245.0,"1600 SE 17th St, Fort Lauderdale, FL 33316"
+Convention Center 3.0,0.3333333333333333,12,Chipotle Mexican Grill,289.0,"1515 SE 17th St (Eisenhower Boulevard), Fort Lauderdale, FL 33316"
+Sebastian Lot 3.0,0.4285714285714285,14,Atlantic Beach Clubs II,116.0,"3008 Alhambra St, Fort Lauderdale, FL 33304"
+Sebastian Lot 3.0,0.4285714285714285,14,SupSmart,151.0,"3028 Seville St, Fort Lauderdale, FL 33304"
+Sebastian Lot 3.0,0.4285714285714285,14,Burlock Coast Seafare & Spirits,160.0,"1 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304"
+Sebastian Lot 3.0,0.4285714285714285,14,Beach Cigar Bar & Hookah Lounge,235.0,"17 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316"
+Sebastian Lot 3.0,0.4285714285714285,14,Beach Cafe,235.0,"17 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316"
+Sebastian Lot 3.0,0.4285714285714285,14,Lynn Nails,235.0,"17 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316"
+Sebastian Lot 3.0,0.4285714285714285,14,Memories,239.0,"1 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304"
+Sebastian Lot 3.0,0.4285714285714285,14,Maui Nix Surf Shop,248.0,"17 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316"
+Sebastian Lot 3.0,0.4285714285714285,14,Subway,268.0,"17 S Fort Lauderdale Beach Blvd (The Gallery at Beach Place), Fort Lauderdale, FL 33316"
+Sebastian Lot 3.0,0.4285714285714285,14,Starbucks,274.0,"321 N Route, Fort Lauderdale, FL 33304"
+South Beach Lot 3.0,0.5555555555555556,9,Lazzara Lenton,110.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,BlueFoot Pirate Adventures,110.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,Fort Lauderdale Beach Park,131.0,"1100 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,Carrazza Jewelers,149.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,Riviera by Fabio Viviani,172.0,"525 S Ft, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,FoxSea Charter,189.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,Marlin My Darlin Sport Fishing,198.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,Sea Experience,220.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,Reel Appeal Sport Fishing,239.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot 3.0,0.5555555555555556,9,Best Boat Club and Rentals,244.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Marine Professionals,45.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Naked Crab,90.0,"1140 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Monster Fishing,113.0,"1005 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Xcentrics Exotic Objects,185.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Best Boat Club and Rentals,275.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Reel Appeal Sport Fishing,286.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Starbucks,335.0,"3030 Holiday Dr, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Riva,339.0,"3030 Holiday Dr, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Sea Experience,348.0,"801 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+South Beach Lot #2 3.0,0.5454545454545454,11,Fort Lauderdale Beach Park,361.0,"1100 Seabreeze Blvd, Fort Lauderdale, FL 33316"
+Willingham Park,0.7692307692307693,13,Ocean2000,119.0,"2000 N Ocean Blvd, Fort Lauderdale, FL 33305"
+Willingham Park,0.7692307692307693,13,Fort Lauderdale Beach Inn,196.0,"2197 N Ocean Blvd, Fort Lauderdale, FL 33305"
+Willingham Park,0.7692307692307693,13,Art of Petals,203.0,"2200 NE 33rd Ave, Fort Lauderdale, FL 33305"
+Willingham Park,0.7692307692307693,13,Lu Deaner Park,214.0,"2125 NE 33rd Ave, Fort Lauderdale, FL 33305"
+Willingham Park,0.7692307692307693,13,Calypso Villas by the Beach,444.0,"2419 NE 33rd Ave (33rd ave.), Fort Lauderdale, FL 33305"
+Willingham Park,0.7692307692307693,13,Sandra Lee Apartments Motel,540.0,"2307 NE 33rd Ave, Fort Lauderdale, FL 33305"
+Willingham Park,0.7692307692307693,13,St Pius X Catholic Church,612.0,"2500 NE 33rd Ave, Fort Lauderdale, FL 33305"
+Hollywood North Beach,0.6363636363636364,11,Hollywood North Beach Park,38.69347164611035,3601 N Ocean Dr
+Hollywood North Beach,0.6363636363636364,11,Latitudes Restaurant Hollywood,794.7312294770691,2501 North Ocean Dr
+Hollywood North Beach,0.6363636363636364,11,Oceans 13 Sports Bar & Grill,451.2825705548206,3111 N Surf Rd
+Hollywood North Beach,0.6363636363636364,11,Anne Kolb Nature Center,685.5431287866869,751 Sheridan St
+Hollywood North Beach,0.6363636363636364,11,Keating Beach,62.695768582443854,1175-1199 Surf Rd
+Hollywood North Beach,0.6363636363636364,11,Hot Dog Harbor of Hollywood,750.0740223493926,2500 N Surf Rd
+Hollywood North Beach,0.6363636363636364,11,The Carpenter House,709.8767020906763,4414 N Surf Rd
+Hollywood North Beach,0.6363636363636364,11,Hollywood North Beach Park Green,653.7322898714801,4400 North Ocean Dr
+Earl Lifshey 3.0,0.3333333333333333,12,Shooters Waterfront,361.5732535929614,3033 NE 32nd Ave
+Earl Lifshey 3.0,0.3333333333333333,12,Colombian Mountains Cafe,187.10743628511656,3330 NE 33rd St
+Earl Lifshey 3.0,0.3333333333333333,12,Smoke BBQ Restaurant & Catering,142.56794094964633,3351 NE 32nd St
+Earl Lifshey 3.0,0.3333333333333333,12,Greek Islands Taverna,213.7800131669336,3300 N Ocean Blvd
+Earl Lifshey 3.0,0.3333333333333333,12,La Dolce Vita,239.98581160076097,3331 NE 33rd St
+Earl Lifshey 3.0,0.3333333333333333,12,Fishtales Restaurant & Nightclub,226.7906288597644,3355 NE 33rd St
+Earl Lifshey 3.0,0.3333333333333333,12,The Etna Rosso,286.85949140509086,3354 N Ocean Blvd
+Earl Lifshey 3.0,0.3333333333333333,12,Twice Removed,265.7004516688944,3301 NE 33rd St
+Earl Lifshey 3.0,0.3333333333333333,12,Bohemian Latin Grill,132.5695899767053,3341 NE 32nd St
+Earl Lifshey 3.0,0.3333333333333333,12,Bokamper's Sports Bar & Grill,325.2123729154052,3115 NE 32nd Ave
+Earl Lifshey 3.0,0.3333333333333333,12,Scolapasta Bistro Pasta Shop,176.9562586750495,3358 NE 33rd St
+Earl Lifshey 3.0,0.3333333333333333,12,Spud’s Coffee,204.2568750893456,3301 NE 32nd St
+Earl Lifshey 3.0,0.3333333333333333,12,Cafe Martorano,100.26535390634,3343 E Oakland Park Blvd
+Earl Lifshey 3.0,0.3333333333333333,12,Chez Vincent Wine Bar,167.19446347464006,3312 NE 32nd St
+Earl Lifshey 3.0,0.3333333333333333,12,Dal Contadino Trattoria,895.8988396010197,2775 E Oakland Park Blvd
+Earl Lifshey 3.0,0.3333333333333333,12,Blue Jean Blues,203.52829664882523,3320 NE 33rd St
+Earl Lifshey 3.0,0.3333333333333333,12,Mastro's Ocean Club,413.8619988225231,3000 NE 32nd Ave
+Earl Lifshey 3.0,0.3333333333333333,12,Cafe Seville,918.440658311498,2768 E Oakland Park Blvd
+Earl Lifshey 3.0,0.3333333333333333,12,Beg For More,721.0126576148423,2831 E Oakland Park Blvd
+Earl Lifshey 3.0,0.3333333333333333,12,Thasos,114.44941770507776,3330 E Oakland Park Blvd
+Atlantic & Briny,0.5555555555555556,9,Oceanic,378.9543922087744,250 North Pompano Beach Blvd
+Atlantic & Briny,0.5555555555555556,9,Beach House Pompano,402.2878667987531,270 N Pompano Beach Blvd
+Atlantic & Briny,0.5555555555555556,9,The Taco Joint,95.6395670015067,3432 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,Lucky Fish Beach Bar & Grill,339.7891394614984,222 North Pompano Beach Blvd
+Atlantic & Briny,0.5555555555555556,9,The Rusty Hook Tavern,349.83262419728027,125 N Riverside Dr
+Atlantic & Briny,0.5555555555555556,9,Mora Grill,121.12705025025927,3428 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,Briny Irish Pub,88.11417025714391,3440 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,The Foundry,537.4852668672517,2781 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,Aromas Del Peru,186.4002551980893,1 N Ocean Blvd
+Atlantic & Briny,0.5555555555555556,9,The Rabbit Hole,719.8366221926069,2659 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,Baresco,367.60812004127183,225 N Pompano Beach Blvd
+Atlantic & Briny,0.5555555555555556,9,Houston's Restaurant,475.4283954192191,2821 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,Cafe Maxx,808.7200692835744,2601 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,How You Brewin Coffee Company,374.744357200417,3435 Pier St
+Atlantic & Briny,0.5555555555555556,9,9 Face Sushi Cafe,95.7360956841118,3422 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,Razzleberry's Homemade Ice Cream-Pompano Beach,116.11474795122862,3412 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,Falafel Beach Grill,108.89807984261742,3414 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,Cannoli kitchen Pizza,381.1702069950703,255 N Pompano Beach Blvd
+Atlantic & Briny,0.5555555555555556,9,Mini Pita Mediterranean Restaurant,849.647984108046,2555 E Atlantic Blvd
+Atlantic & Briny,0.5555555555555556,9,The Bite Eatery,638.2342751945248,2715 E Atlantic Blvd
+Esplanade Park,0.4545454545454545,11,The Chimney House - Grill & Cafe,277.0151726200203,701 W Las Olas Blvd
+Esplanade Park,0.4545454545454545,11,Rivertail,459.1079051444653,4 W Las Olas Blvd
+Esplanade Park,0.4545454545454545,11,Pizzacraft Artisan Pizzeria,105.2902815296969,330 Himmarshee St
+Esplanade Park,0.4545454545454545,11,Matchbox - Las Olas,384.0675129852832,221 SW 1st Ave
+Esplanade Park,0.4545454545454545,11,Bandoleros Taqueria Y Mas,221.1535036714961,208 SW 2nd St
+Esplanade Park,0.4545454545454545,11,La Ville Rose,194.66328295526085,301 SW 3rd Ave
+Esplanade Park,0.4545454545454545,11,Pirate Republic Seafood Restaurant,308.3213901583308,400 SW 3rd Ave
+Esplanade Park,0.4545454545454545,11,Eddie V's Prime Seafood,678.9083553094033,100 E Las Olas Blvd
+Esplanade Park,0.4545454545454545,11,Sushi Song - Fort Lauderdale,248.74647157948792,209 SW 2nd Ave
+Esplanade Park,0.4545454545454545,11,Top Hat Deli,1088.432828002889,415 NE 3rd St
+Esplanade Park,0.4545454545454545,11,Here & Now,848.4658005644292,433 NW 1st Ave
+Esplanade Park,0.4545454545454545,11,Pummarola - Fort Lauderdale,257.5119735422681,620 W Las Olas Blvd
+Esplanade Park,0.4545454545454545,11,The Den Sports Bar and Lounge,247.34967181544263,201 SW 2nd St
+Esplanade Park,0.4545454545454545,11,Big Buns - Las Olas,381.5035031502108,221 SW 1st Ave
+Esplanade Park,0.4545454545454545,11,Java & Jam,811.9748125144711,301 E Las Olas Blvd
+Esplanade Park,0.4545454545454545,11,YOLO,866.7950238617407,333 E Las Olas Blvd
+Esplanade Park,0.4545454545454545,11,Bodega Taqueria y Tequila Fort Lauderdale,395.0814870749253,21 W Las Olas Blvd
+Esplanade Park,0.4545454545454545,11,Stache Drinking Den ,268.0582701054419,109 SW 2nd Ave
+Esplanade Park,0.4545454545454545,11,Riverside Market,1179.5802942251137,608 SW 12th Ave
+Esplanade Park,0.4545454545454545,11,Pura Vida - Las Olas,373.43195391172816,221 SW 1st Ave
+Bayshore & A1A 3.0,0.2352941176470588,17,Lona Cocina Tequileria,125.32218900941696,321 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,S3,164.11570457551295,505 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Casablanca Cafe,319.81467486113195,3049 Alhambra St
+Bayshore & A1A 3.0,0.2352941176470588,17,El Vez Fort Lauderdale,60.95567157488535,401 N Ft Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,TAKATO,313.6419055122573,551 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Steak 954,51.636044589024536,401 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Tinta,125.32218900941696,321 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,La Fuga,301.91104186339635,2900 Riomar St
+Bayshore & A1A 3.0,0.2352941176470588,17,Burlock Coast Seafare & Spirits,574.1700679962246,1 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Evelyn’s Fort Lauderdale,224.4876811049441,525 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Wild Thyme Oceanside Eatery,391.9818570395327,601 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,SoBe Vegan,51.636044589024536,401 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Wine Garden,412.7101454262641,608 Breakers Ave
+Bayshore & A1A 3.0,0.2352941176470588,17,Village Café,355.35637438824835,551 Breakers Ave
+Bayshore & A1A 3.0,0.2352941176470588,17,Ilios,199.97698055611863,505 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Kousine Fort Lauderdale,952.2054960808184,841 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,La Costa Olas,978.6054609066216,2915 E Las Olas Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Chima Steakhouse,1337.215328407845,2400 E Las Olas Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Spinnaker After Dark,313.6419055121143,551 N Fort Lauderdale Beach Blvd
+Bayshore & A1A 3.0,0.2352941176470588,17,Archibalds Village Bakery,412.63344293972153,608 Breakers Ave
+Holiday Park at Sunrise,0.3636363636363636,11,Doc B's Restaurant + Bar,1220.5959192589823,452 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,Brgr Stop,933.0386266466184,1930 E Sunrise Blvd
+Holiday Park at Sunrise,0.3636363636363636,11,Shuck 'N Dive,996.0679240883744,650 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,Milk Money Bar & Kitchen,834.5599950543573,815 NE 13th St
+Holiday Park at Sunrise,0.3636363636363636,11,Heritage,957.1435139863804,903 NE 5th Ave
+Holiday Park at Sunrise,0.3636363636363636,11,Padrino’s Cuban Restaurant,999.0188703553004,1135 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,IL Mulino,801.1638452932186,1800 E Sunrise Blvd
+Holiday Park at Sunrise,0.3636363636363636,11,Casa D'Angelo Ristorante,989.0302978941368,1201 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,Tacocraft Taqueria & Tequila Bar,1220.3519956444743,510 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,J Mark's Restaurant,1091.567167204621,1245 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,Batch New Southern Kitchen And Tap - Fort Lauderdale,1221.5026465562073,525 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,Glitch Bar,932.314087349359,905 N E 5th Ave
+Holiday Park at Sunrise,0.3636363636363636,11,Hatch,962.5120608710864,715 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,No Man's Land,965.7354676580444,666 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,Cafe Vico,919.325452099583,1125 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,Colada Cuban Cafe,1238.6197291451851,525 N Federal Hwy
+Holiday Park at Sunrise,0.3636363636363636,11,SASAYA Japanese Market,981.8364068979564,1956 E Sunrise Blvd
+Holiday Park at Sunrise,0.3636363636363636,11,Gulf Stream Brewing,678.4653249632836,1105 NE 13th St
+Holiday Park at Sunrise,0.3636363636363636,11,Tijuana Flats,285.7223873560233,1619 E Sunrise Blvd
+Holiday Park at Sunrise,0.3636363636363636,11,Sip Java,1003.5480979916136,638 N Federal Hwy
+Broadwalk at Jefferson St.,0.3529411764705882,17,Sardelli,461.70622851561376,331 Van Buren St
+Broadwalk at Jefferson St.,0.3529411764705882,17,Billy's Stone Crab,898.8464603071093,400 N Ocean Dr
+Broadwalk at Jefferson St.,0.3529411764705882,17,Taverna Opa,907.7180335797829,410 N Ocean Dr
+Broadwalk at Jefferson St.,0.3529411764705882,17,Hollywood Brewing,794.0947855578073,290 N Broadwalk
+Broadwalk at Jefferson St.,0.3529411764705882,17,The Mermaid Queen,415.3268544960342,300 S Broadwalk
+Broadwalk at Jefferson St.,0.3529411764705882,17,Bonny & Read's Toucan Hideout,949.8399272795684,500 N Broadwalk
+Broadwalk at Jefferson St.,0.3529411764705882,17,Taco Beach Shack,854.1498442263412,334 Arizona St
+Broadwalk at Jefferson St.,0.3529411764705882,17,Love Buddha Bar & Hookah  Lounge,834.2974551462747,317 Polk St
+Broadwalk at Jefferson St.,0.3529411764705882,17,Villa Sinclair Beach Suites and Spa,814.698473231404,317 Polk St
+Broadwalk at Jefferson St.,0.3529411764705882,17,Hollywood Beach,368.8299210946254,1451 S Surf Rd
+Broadwalk at Jefferson St.,0.3529411764705882,17,Red Pelican Bar and Hookah Lounge,787.7513884103429,230 N Broadwalk
+Broadwalk at Jefferson St.,0.3529411764705882,17,Mamacitas Latin Bar and Grill,981.618527478367,591 N Broadwalk
+Broadwalk at Jefferson St.,0.3529411764705882,17,Angela's On the Beach,853.8240475415804,2201 S Ocean Dr
+Broadwalk at Jefferson St.,0.3529411764705882,17,Logan's Beach Bar,767.0340511419403,200 N Surf Rd
+Broadwalk at Jefferson St.,0.3529411764705882,17,Harry Berry Park,188.23446207905477,"301 Azalea Terrace, S Surf Rd"
+Broadwalk at Jefferson St.,0.3529411764705882,17,City of Hollywood,309.9279549910341,2600 Hollywood Blvd
+Broadwalk at Jefferson St.,0.3529411764705882,17,Gavin On The Beach,295.3111078035313,500 S Surf Rd
+Broadwalk at Jefferson St.,0.3529411764705882,17,McGowan's Tiki Bar & Restaurant,865.2163627425621,298 Arizona St
+Broadwalk at Jefferson St.,0.3529411764705882,17,Sunny Side Bakery,655.9958608931919,101 N Ocean Dr
+Broadwalk at Jefferson St.,0.3529411764705882,17,Eppleman Park,780.8886537668448,701 Tyler St
+Las Olas Beach Park,0.5,14,Coconuts,143.3503486086319,429 Seabreeze Blvd
+Las Olas Beach Park,0.5,14,G&B Oyster Bar,171.81071695025642,429 Seabreeze Blvd
+Las Olas Beach Park,0.5,14,La Costa Olas,196.0334188136672,2915 E Las Olas Blvd
+Las Olas Beach Park,0.5,14,Bo's Beach,374.9545334605478,600 Seabreeze Blvd
+Las Olas Beach Park,0.5,14,Burlock Coast Seafare & Spirits,512.9588490564043,1 N Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,Cafe Ibiza,240.1034224765905,213 S Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,Mancora Ceviche,151.0113974706018,234 Almond Ave
+Las Olas Beach Park,0.5,14,Bubba Gump Shrimp,131.76071995338876,429 S Ft Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,Lona Cocina Tequileria,967.5262421336818,321 N Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,Casablanca Cafe,765.8601737394268,3049 Alhambra St
+Las Olas Beach Park,0.5,14,Spazio Italian Eatery,134.14697503138967,239 S Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,Quarterdeck Restaurants,149.84578254528802,2933 E Las Olas Blvd
+Las Olas Beach Park,0.5,14,Riviera by Fabio Viviani,288.700163197668,525 S Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,Nanou Las Olas,210.05933270323683,2915 E Las Olas Blvd
+Las Olas Beach Park,0.5,14,Tinta,967.5262421336818,321 N Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,411 South Bar & Grill,49.23312709878829,411 S Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,The Drunken Taco,268.7537582957635,201 S Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,Café Del Mar,329.1639990903974,101 S Fort Lauderdale Beach Blvd
+Las Olas Beach Park,0.5,14,Lulu's Bait Shack,462.11352454552247,17 S Ft Lauderdle Bch Blvd
+Las Olas Beach Park,0.5,14,Boccaccino Cafe & Pizzeria,56.47646486025709,401 S Fort Lauderdale Beach Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Louie Bossi's Ristorante Bar Pizzeria,154.2160240584501,1032 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,El Camino,63.22427248631655,817 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,PLANTA Queen Fort Lauderdale,302.67459490438176,1201 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Big City Tavern,270.0300631822754,609 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Casa Sensei,274.96919281188025,1200 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Wild Sea Las Olas,247.2920330292462,620 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,B Square Burgers & Booze,171.9583159898691,1021 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,The Katherine,377.64927295531646,723 East Broward Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Cuba Libre Restaurant & Rum Bar,137.80768615565884,800 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Voodoo Bayou,167.75959439184288,715 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Luigi's Tuscan Grill,219.4043200913833,1105 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Tommy Bahama | Marlin Bar & Store - Las Olas,156.580783354978,740 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,American Social,149.22961142354308,721 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Argentino Las Olas,84.05277333554015,813 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Rocco's Tacos & Tequila Bar,500.9167339844829,1313 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Caffe Europa,77.86360040291547,910 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,Boathouse at the Riverside,276.4890441399115,620 SE 4th St
+Las Olas & SE 9th Ave,0.1818181818181818,11,Doc B's Restaurant + Bar,1019.2257151572692,452 N Federal Hwy
+Las Olas & SE 9th Ave,0.1818181818181818,11,Vinos On Las Olas,71.16380786526342,901 E Las Olas Blvd
+Las Olas & SE 9th Ave,0.1818181818181818,11,The Foxy Brown,937.696492817737,476 N Federal Hwy
+George English Park,0.8181818181818182,11,Seasons 52,278.9574927808673,2428 E Sunrise Blvd
+George English Park,0.8181818181818182,11,Cooper's Hawk Winery & Restaurant- Fort Lauderdale,301.05219538224986,2568 E Sunrise Blvd
+George English Park,0.8181818181818182,11,Serafina Italian Restaurant & Waterfront Bistro,380.53996717599097,926 NE 20th Ave
+George English Park,0.8181818181818182,11,Brgr Stop,503.28764736547305,1930 E Sunrise Blvd
+George English Park,0.8181818181818182,11,The Capital Grille,340.05778874481746,2430 E Sunrise Blvd
+George English Park,0.8181818181818182,11,Padrino’s Cuban Restaurant,567.7663668360251,1135 N Federal Hwy
+George English Park,0.8181818181818182,11,Lasso Gaucho Brazilian Steakhouse,227.68150992319195,2457 E Sunrise Blvd
+George English Park,0.8181818181818182,11,Verino's Pizzeria and Grill,258.26934190537,2465 E Sunrise Blvd
+George English Park,0.8181818181818182,11,P.F. Chang's,267.8070701697468,2418 E Sunrise Blvd
+George English Park,0.8181818181818182,11,IL Mulino,617.6302440293824,1800 E Sunrise Blvd
+George English Park,0.8181818181818182,11,Casa D'Angelo Ristorante,649.3956997749037,1201 N Federal Hwy
+George English Park,0.8181818181818182,11,J Mark's Restaurant,657.2214561511644,1245 N Federal Hwy
+George English Park,0.8181818181818182,11,The Hummus House,413.68850500471945,900 NE 20th Ave
+George English Park,0.8181818181818182,11,BurgerFi,274.2234515275306,2477 E Sunrise Blvd
+George English Park,0.8181818181818182,11,SASAYA Japanese Market,437.4034503699696,1956 E Sunrise Blvd
+George English Park,0.8181818181818182,11,Cafe Vico,552.0417244660194,1125 N Federal Hwy
+George English Park,0.8181818181818182,11,The Modern Rose,425.5530387196214,911 NE 20th Ave
+George English Park,0.8181818181818182,11,Theos Estatorio,568.3989129846692,1826 E Sunrise Blvd
+George English Park,0.8181818181818182,11,Blue Martini Lounge,346.8746268844788,2432 E Sunrise Blvd
+George English Park,0.8181818181818182,11,Croissan'Time,657.2402397001852,1201 N Federal Hwy
+Galleria,0.2727272727272727,11,The Capital Grille,39.970573033175896,2430 E Sunrise Blvd
+Galleria,0.2727272727272727,11,Cooper's Hawk Winery & Restaurant- Fort Lauderdale,61.60309755682462,2568 E Sunrise Blvd
+Galleria,0.2727272727272727,11,Seasons 52,69.73238754858244,2428 E Sunrise Blvd
+Galleria,0.2727272727272727,11,TAKATO,1139.0320550111496,551 N Fort Lauderdale Beach Blvd
+Galleria,0.2727272727272727,11,Brgr Stop,807.0498485380659,1930 E Sunrise Blvd
+Galleria,0.2727272727272727,11,Lasso Gaucho Brazilian Steakhouse,115.28843196799168,2457 E Sunrise Blvd
+Galleria,0.2727272727272727,11,Verino's Pizzeria and Grill,104.7966160552072,2465 E Sunrise Blvd
+Galleria,0.2727272727272727,11,P.F. Chang's,68.526057564344,2418 E Sunrise Blvd
+Galleria,0.2727272727272727,11,Blue Martini Lounge,30.864731230958597,2432 E Sunrise Blvd
+Galleria,0.2727272727272727,11,S3,1240.8637440462328,505 N Fort Lauderdale Beach Blvd
+Galleria,0.2727272727272727,11,Kousine Fort Lauderdale,916.575373267869,841 N Fort Lauderdale Beach Blvd
+Galleria,0.2727272727272727,11,Padrino’s Cuban Restaurant,876.0260240850572,1135 N Federal Hwy
+Galleria,0.2727272727272727,11,BurgerFi,79.68567324634118,2477 E Sunrise Blvd
+Galleria,0.2727272727272727,11,Wine Garden,1036.5789495339332,608 Breakers Ave
+Galleria,0.2727272727272727,11,Serafina Italian Restaurant & Waterfront Bistro,688.3479633253111,926 NE 20th Ave
+Galleria,0.2727272727272727,11,J Mark's Restaurant,938.6049518692148,1245 N Federal Hwy
+Galleria,0.2727272727272727,11,Casa D'Angelo Ristorante,950.9933347195824,1201 N Federal Hwy
+Galleria,0.2727272727272727,11,La Fuga,1161.7642277972652,2900 Riomar St
+Galleria,0.2727272727272727,11,Steelpan,873.8736430121678,999 N Fort Lauderdale Beach Blvd
+Galleria,0.2727272727272727,11,IL Mulino,931.5146984069142,1800 E Sunrise Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Canyon,351.67029984307106,620 S Federal Hwy
+Courthouse (540 Bldg),0.5454545454545454,11,Big City Tavern,597.6890116690207,609 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Rivertail,598.7008911721574,4 W Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,"Phat Boy Sushi, Kitchen & Bar - Fort Lauderdale",365.3712266214587,701 S Federal Hwy
+Courthouse (540 Bldg),0.5454545454545454,11,Masa & More,215.654626795096,510 SE 5th Ave
+Courthouse (540 Bldg),0.5454545454545454,11,Eddie V's Prime Seafood,460.5457794633402,100 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Louie Bossi's Ristorante Bar Pizzeria,873.106982250234,1032 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,YOLO,510.6630418018398,333 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Java & Jam,490.7678362822922,301 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,El Camino,733.8332717380781,817 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,SALT7,408.10173900931386,500 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,The Katherine,978.8968485922388,723 East Broward Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Lobster Bar Sea Grille,451.06935817643216,450 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Wild Sea Las Olas,561.0965222184363,620 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Timpano Las Olas,450.111390166144,450 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Tarpon River Brewing,568.7235012442088,280 SW 6th St
+Courthouse (540 Bldg),0.5454545454545454,11,Casa Sensei,986.7830659011314,1200 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,Fogo de Chão Brazilian Steakhouse,497.9690105870512,201 E Las Olas Blvd
+Courthouse (540 Bldg),0.5454545454545454,11,The Historic Downtowner,412.0930648645716,10 S New River Dr E
+Courthouse (540 Bldg),0.5454545454545454,11,PLANTA Queen Fort Lauderdale,1033.2514122135526,1201 E Las Olas Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Kousine Fort Lauderdale,128.65853796821312,841 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Steelpan,53.34988161776138,999 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,The Parrot Lounge,96.85772816566616,911 Sunrise Ln
+Sunrise & Ocean 3.0,0.6923076923076923,13,TAKATO,772.0320722036641,551 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,S3,926.2966566737326,505 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Park & Ocean,59.461389173553854,3109 E Sunrise Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Thai On The Beach,79.44790199443,901 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Wine Garden,690.6422349655379,608 Breakers Ave
+Sunrise & Ocean 3.0,0.6923076923076923,13,McSorley's Beach Pub,121.14287941992038,837 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Primanti Bros,88.34209240584659,901 N Atlantic Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Seasons 52,977.6993536755796,2428 E Sunrise Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Nanou Sunrise,93.00063250677056,3114 E Sunrise Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Park & Ocean,334.93802636623315,1399 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Fort Lauderdale Beach,41.89006321600833,1100 Seabreeze Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,El Taquito,79.56575730362366,917 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,La Fuga,1059.9675078518708,2900 Riomar St
+Sunrise & Ocean 3.0,0.6923076923076923,13,The Capital Grille,913.2381146403288,2430 E Sunrise Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Wild Thyme Oceanside Eatery,690.8128361327487,601 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Evelyn’s Fort Lauderdale,857.0090084653906,525 N Fort Lauderdale Beach Blvd
+Sunrise & Ocean 3.0,0.6923076923076923,13,Bonnet House Museum & Gardens,321.0504378444838,900 N Birch Rd
+Las Olas Parking Garage,0.1818181818181818,11,Coconuts,305.2743375738371,429 Seabreeze Blvd
+Las Olas Parking Garage,0.1818181818181818,11,La Costa Olas,83.61941493088645,2915 E Las Olas Blvd
+Las Olas Parking Garage,0.1818181818181818,11,G&B Oyster Bar,301.39267643558605,429 Seabreeze Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Burlock Coast Seafare & Spirits,438.9402825548291,1 N Fort Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Lona Cocina Tequileria,862.9706026999141,321 N Fort Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Casablanca Cafe,681.4617793081426,3049 Alhambra St
+Las Olas Parking Garage,0.1818181818181818,11,Mancora Ceviche,220.1989535256093,234 Almond Ave
+Las Olas Parking Garage,0.1818181818181818,11,Bo's Beach,568.7715325934643,600 Seabreeze Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Cafe Ibiza,262.5900789279186,213 S Fort Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Spazio Italian Eatery,226.98187743059583,239 S Fort Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Quarterdeck Restaurants,156.87188976905398,2933 E Las Olas Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Nanou Las Olas,64.2495176712748,2915 E Las Olas Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Bubba Gump Shrimp,365.7345059728918,429 S Ft Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Café Del Mar,302.5257904818466,101 S Fort Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Con Murphy's Ocean Bar & Grill,363.01320524314,17 S Fort Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Tinta,862.9706026999141,321 N Fort Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,El Vez Fort Lauderdale,1031.7951880642186,401 N Ft Lauderdale Beach Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Lulu's Bait Shack,415.9941887619277,17 S Ft Lauderdle Bch Blvd
+Las Olas Parking Garage,0.1818181818181818,11,Chima Steakhouse,642.9290354620272,2400 E Las Olas Blvd
+Las Olas Parking Garage,0.1818181818181818,11,The Drunken Taco,283.90030713166465,201 S Fort Lauderdale Beach Blvd
+Lauderdale by the Sea,0.3,10,Even Keel Fish Shack,146.02340712624192,112 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Billy Jacks Shack,183.68021784563948,218 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Aruba Beach Cafe,176.96555274516658,1 Commercial Blvd
+Lauderdale by the Sea,0.3,10,101 Ocean,111.3542781034105,101 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Tacocraft Taqueria & Tequila Bar,87.18449210184448,4400 N Ocean Dr
+Lauderdale by the Sea,0.3,10,Village Grille,144.90658692399822,4404 El Mar Dr
+Lauderdale by the Sea,0.3,10,Frenchy's Table,295.8894625367559,235 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Mulligan’s Beach House Bar & Grill - Lauderdale by the Sea,153.7961798887792,14C Commercial Blvd
+Lauderdale by the Sea,0.3,10,Blue Moon Fish,555.852967210202,4405 W Tradewinds Ave
+Lauderdale by the Sea,0.3,10,HARAT'S by the sea,154.6064093979252,100 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Vinnie's by the Sea,146.6835089968775,106 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Pump Sushi Thai Cuisine,207.8757121738392,222 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Kaluz - Fort Lauderdale,692.9113128170242,3300 E Commercial Blvd
+Lauderdale by the Sea,0.3,10,El Mar Cafe,104.01358266620998,4405 El Mar Dr
+Lauderdale by the Sea,0.3,10,Diner By-the-Sea,107.01205684302435,215 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Chicago Stuffed Pizza,334.16332801694864,238 Commercial Blvd
+Lauderdale by the Sea,0.3,10,Mickey's Downtown Bistro,210.45652070350368,4331 N Ocean Dr
+Lauderdale by the Sea,0.3,10,The Village Pump,146.12703467859671,4404 El Mar Dr
+Lauderdale by the Sea,0.3,10,UMAI,104.55717382791369,213 Commercial Blvd
+Lauderdale by the Sea,0.3,10,BurgerFi,174.67387587684138,4343 N Ocean Blvd
+Convention Center 3.0,0.4166666666666667,12,Boatyard,278.53264056574403,1555 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Gilbert's 17th Street Grill,817.4234194930689,1821 Cordova Rd
+Convention Center 3.0,0.4166666666666667,12,17th Street Thai Sushi,294.9042395555024,1515 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Southport Raw Bar & Restaurant,680.0277176625996,1536 Cordova Rd
+Convention Center 3.0,0.4166666666666667,12,15th Street Fisheries,435.4180063397507,1900 SE 15th St
+Convention Center 3.0,0.4166666666666667,12,Fresh First,207.614227191996,1637 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Kelly's Landing,671.5196903389716,1305 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,The Indian Harbor,294.90423955423347,1515 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Koi - Sushi Lounge,832.0151830685342,1841 Cordova Rd
+Convention Center 3.0,0.4166666666666667,12,Olive & Sea,400.1506020004177,1881 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,New York Marina Deli,474.1177667522031,1453 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Mamajuana Cafe Fort Lauderdale,294.90423955423347,1515 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Tokyo Sushi Omakase Restaurant,401.1406558504536,1499 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Myra Harbor Cafe,507.6931623871933,1396 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Laspada's Original Hoagies,410.91970680495103,1495 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Siam House Thailand Restaurant,587.3442451923155,1392 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Whiskey Neat,881.3008604469452,1035 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,Bistro Mezzaluna,989.2225385203744,1821 SE 10th Ave
+Convention Center 3.0,0.4166666666666667,12,Quarterdeck Restaurants,877.6104548258388,1035 SE 17th St
+Convention Center 3.0,0.4166666666666667,12,BurgerFi,473.4318075852443,1465 SE 17th St
+Sebastian Lot 3.0,0.5,14,Casablanca Cafe,100.6047026902396,3049 Alhambra St
+Sebastian Lot 3.0,0.5,14,Burlock Coast Seafare & Spirits,157.08516392527994,1 N Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,Lona Cocina Tequileria,304.6106675815559,321 N Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,Lulu's Bait Shack,203.488718350006,17 S Ft Lauderdle Bch Blvd
+Sebastian Lot 3.0,0.5,14,Coconuts,795.1133359681355,429 Seabreeze Blvd
+Sebastian Lot 3.0,0.5,14,Tinta,304.6106675815559,321 N Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,S3,575.7510993840464,505 N Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,TAKATO,729.7679717154543,551 N Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,El Vez Fort Lauderdale,473.8114876288246,401 N Ft Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,Steak 954,470.4011250832768,401 N Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,La Fuga,552.5006007412638,2900 Riomar St
+Sebastian Lot 3.0,0.5,14,Con Murphy's Ocean Bar & Grill,237.03697474971116,17 S Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,La Costa Olas,569.4022848470123,2915 E Las Olas Blvd
+Sebastian Lot 3.0,0.5,14,Wine Garden,821.9604347711803,608 Breakers Ave
+Sebastian Lot 3.0,0.5,14,G&B Oyster Bar,812.5646642372964,429 Seabreeze Blvd
+Sebastian Lot 3.0,0.5,14,SoBe Vegan,470.4011250832768,401 N Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,Mancora Ceviche,516.4362008692927,234 Almond Ave
+Sebastian Lot 3.0,0.5,14,Café Del Mar,337.1856097951676,101 S Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,Cafe Ibiza,425.4960316404315,213 S Fort Lauderdale Beach Blvd
+Sebastian Lot 3.0,0.5,14,Chima Steakhouse,1062.5871908274128,2400 E Las Olas Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Coconuts,364.6324607193972,429 Seabreeze Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Bo's Beach,98.01889367459194,600 Seabreeze Blvd
+South Beach Lot 3.0,0.4444444444444444,9,G&B Oyster Bar,364.3998109341204,429 Seabreeze Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Riviera by Fabio Viviani,188.68564553595093,525 S Fort Lauderdale Beach Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Burlock Coast Seafare & Spirits,982.620026644778,1 N Fort Lauderdale Beach Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Bubba Gump Shrimp,338.77181478723344,429 S Ft Lauderdale Beach Blvd
+South Beach Lot 3.0,0.4444444444444444,9,La Costa Olas,625.2275433242189,2915 E Las Olas Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Mancora Ceviche,621.4699651496255,234 Almond Ave
+South Beach Lot 3.0,0.4444444444444444,9,Fort Lauderdale Beach Park,230.39779591454572,1100 Seabreeze Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Chima Steakhouse,1089.3485442736458,2400 E Las Olas Blvd
+South Beach Lot 3.0,0.4444444444444444,9,3030 Ocean Restaurant & Bar,823.9587388971169,3030 Holiday Dr
+South Beach Lot 3.0,0.4444444444444444,9,La Playa Dayclub,102.34963680290964,600 Seabreeze Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Nanou Las Olas,628.7958786434573,2915 E Las Olas Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Lulu's Bait Shack,929.8554190849994,17 S Ft Lauderdle Bch Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Cafe Ibiza,709.2506379964095,213 S Fort Lauderdale Beach Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Boccaccino Cafe & Pizzeria,421.6118383207373,401 S Fort Lauderdale Beach Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Con Murphy's Ocean Bar & Grill,906.674485298638,17 S Fort Lauderdale Beach Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Quarterdeck Restaurants,609.2794725423904,2933 E Las Olas Blvd
+South Beach Lot 3.0,0.4444444444444444,9,The Wreck Bar,616.1429210508611,1140 Seabreeze Blvd
+South Beach Lot 3.0,0.4444444444444444,9,Spazio Italian Eatery,604.489573999213,239 S Fort Lauderdale Beach Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Coconuts,830.5327371449946,429 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Bo's Beach,581.9925026280267,600 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,3030 Ocean Restaurant & Bar,334.84947783038626,3030 Holiday Dr
+South Beach Lot #2 3.0,0.6363636363636364,11,G&B Oyster Bar,819.4399969065115,429 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,The Wreck Bar,122.86261562327644,1140 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Naked Crab,122.97452043270766,1140 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Fort Lauderdale Beach Park,276.4118401304865,1100 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Sea Level Restaurant and Ocean Bar,332.7348201421655,3030 Holiday Dr
+South Beach Lot #2 3.0,0.6363636363636364,11,Bubba Gump Shrimp,824.8997853331105,429 S Ft Lauderdale Beach Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Riviera by Fabio Viviani,665.7387266628929,525 S Fort Lauderdale Beach Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Riva Restaurant,322.98965098004805,3030 Holiday Dr
+South Beach Lot #2 3.0,0.6363636363636364,11,Salty Siren,207.02524301090165,1140 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Boccaccino Cafe & Pizzeria,901.628752033426,401 S Fort Lauderdale Beach Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,La Playa Dayclub,585.4853946889327,600 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,The Market Deli & Liquor,311.8932659839975,801 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Breezes,309.56121765579974,801 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Beach Bar & Grill,154.1436911028382,1140 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,Waves at Bahia Mar,160.1082676979237,801 Seabreeze Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,411 South Bar & Grill,908.7370501842375,411 S Fort Lauderdale Beach Blvd
+South Beach Lot #2 3.0,0.6363636363636364,11,International Swimming Hall of Fame,728.008652823585,1 Hall Of Fame Dr
+Willingham Park,0.8571428571428571,14,DUNE by Laurent Tourondel ,208.672980203636,2200 N Ocean Blvd
+Willingham Park,0.8571428571428571,14,Sandbar Grill,68.45433127687217,2030 N Atlantic Blvd
+Willingham Park,0.8571428571428571,14,OCEAN2000,100.70971846463851,2000 N Ocean Blvd
+Willingham Park,0.8571428571428571,14,Gianni's Table,302.38800833650595,2231 N Ocean Blvd
+Willingham Park,0.8571428571428571,14,Willingham Park,78.92900763486494,2100 N Atlantic Blvd
+Willingham Park,0.8571428571428571,14,Lu Deaner Park,217.53767467088923,2125 NE 33rd Ave
+Willingham Park,0.8571428571428571,14,Loggerhead Park,741.5004628879257,3698 NE 27th St
+Willingham Park,0.8571428571428571,14,Moreth House,508.0698485035834,3000 NE 19th St
+Willingham Park,0.8571428571428571,14,Vista Park,978.9133833302224,2900 North Atlantic Blvd
